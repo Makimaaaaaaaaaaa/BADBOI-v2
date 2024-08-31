@@ -4,19 +4,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348140825959"
-global.ownername = "🕷BADBOI-v2-BUG🕷"
+global.ownernomer = "2250152724602"
+global.ownername = "_🫦𝑀𝒂𝒌𝒊🌹𝒎𝒂メ🩸"
 global.ytname = "🕷BADBOI-v2-BUG🕷"
 global.socialm = "GitHub: BADBOI-v1"
 global.location = "Africa, Nigeria, Ogun-state"
 
-global.ownernumber = '2348140825959,2348140825959,2348140825959'  //creator number
-global.ownername = '🕷BADBOI-v2-BUG🕷' //owner name
-global.botname = '🕷BADBOI-v2-BUG🕷' //name of the bot
+global.ownernumber = '2250152724602,2250505601311,2250758500787'  //creator number
+global.ownername = 'Wini✨l'ourson🧸' //owner name
+global.botname = '_🫦𝑀𝒂𝒌𝒊🌹𝒎𝒂メ🩸' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'BADBOI HACKER\n\nContact: +2348140825959'
+global.packname = '_🫦𝑀𝒂𝒌𝒊🌹𝒎𝒂メ🩸'
+global.author = 'Wini✨l'ourson🧸\n\nContact: +2348140825959'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -26,16 +26,16 @@ global.wm = "BADBOI HACKER Tech."
 global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['#']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autoTyping = false //auto typing
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
-global.anti92 = true //auto block +92 
-global.autoswview = true //auto view status/story
+global.autobio = false //auto update bio
+global.anti92 = false //auto block +92 
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
